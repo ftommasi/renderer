@@ -1,0 +1,1 @@
+cl -Zi renderer.cpp User32.lib gdi32.lib
